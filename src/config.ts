@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "",
-  skills: ["Python, C/C++, CSS, HTML, Java, React, NumPy, Matplotlib, Tkinter, Figma, Git"],
+  skills: ["Python", "C/C++", "CSS", "HTML", "Java", "React", "NumPy", "Matplotlib", "Tkinter", "Figma", "Git"],
   projects: [
     {
       name: "1",
